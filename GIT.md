@@ -8,3 +8,4 @@
 # git remote -v
 # git push -u tutor-go master
 # git add .
+# git push -f
